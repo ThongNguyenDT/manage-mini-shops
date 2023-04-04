@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GzqiLGQ8pOJuj7kMjuzIQhk5sxn+XM2z438ryQ6Rl9g4Gsvow4YFl5Dy/VJ3NHP+soJv6AxXXGGrwsl2XLWOiQ==",
+  "dgSpecHash": "RquMtcYvXZpwabc2C3/3ZW9uYSvv1XqyF08RnG7Icuh56PR48rOABYZcg/zr0win/IF9QMATkHKG1BeE9GwNWQ==",
   "success": true,
-  "projectFilePath": "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL\\DuAnCSDL.csproj",
+  "projectFilePath": "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL_QLchuoiSTmini\\DuAnCSDL\\DuAnCSDL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A715-42G\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512",
     "C:\\Users\\A715-42G\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

@@ -16,7 +16,7 @@ namespace DuAnCSDL
             leftBorderBtn = new Panel();
             leftBorderBtn.Size = new Size(7, 60);
             panelLeft.Controls.Add(leftBorderBtn);
-            
+
         }
 
         private struct RGBColors
@@ -46,7 +46,7 @@ namespace DuAnCSDL
 
 
                 leftBorderBtn.BackColor = color;
-                leftBorderBtn.Location= new Point(0, currentBtn.Location.Y);
+                leftBorderBtn.Location = new Point(0, currentBtn.Location.Y);
                 leftBorderBtn.Visible = true;
                 leftBorderBtn.BringToFront();
             }
@@ -68,12 +68,12 @@ namespace DuAnCSDL
 
         private void iconButton1_Click(object sender, EventArgs e)
         {
-           // khi click vào btn 1 sẽ in ra tất cả hàng hóa trong cửa hàng
+            // khi click vào btn 1 sẽ in ra tất cả hàng hóa trong cửa hàng
             ActiveBtn(sender, RGBColors.color1);
             //lấy dữ liệu bỏ vô view của form.
             //dataGridView1.DataSource = getAllproduct();
-            
-            
+
+
         }
 
         private object getAllproduct()
@@ -91,7 +91,7 @@ namespace DuAnCSDL
             SqlDataAdapter adapter = new SqlDataAdapter(command);
             adapter.Fill(data);
             connection.Close();
-            
+
             return data;
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL\\DuAnCSDL.csproj": {}
+    "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL_QLchuoiSTmini\\DuAnCSDL\\DuAnCSDL.csproj": {}
   },
   "projects": {
-    "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL\\DuAnCSDL.csproj": {
+    "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL_QLchuoiSTmini\\DuAnCSDL\\DuAnCSDL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL\\DuAnCSDL.csproj",
+        "projectUniqueName": "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL_QLchuoiSTmini\\DuAnCSDL\\DuAnCSDL.csproj",
         "projectName": "DuAnCSDL",
-        "projectPath": "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL\\DuAnCSDL.csproj",
+        "projectPath": "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL_QLchuoiSTmini\\DuAnCSDL\\DuAnCSDL.csproj",
         "packagesPath": "C:\\Users\\A715-42G\\.nuget\\packages\\",
-        "outputPath": "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL\\obj\\",
+        "outputPath": "C:\\Learn\\csdl\\DuAn\\DuAnCSDL\\DuAnCSDL_QLchuoiSTmini\\DuAnCSDL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
